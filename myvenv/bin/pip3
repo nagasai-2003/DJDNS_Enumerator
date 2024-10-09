@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/nagasaibhavanieswar/DJSAI/DNS Enumerator/DJDNS_Enumerator/myvenv/bin/python3.12" "$0" "$@"
-' '''
+#!/Users/nagasaibhavanieswar/DJSAI/DNS_Enumerator/DJDNS_Enumerator/myvenv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
